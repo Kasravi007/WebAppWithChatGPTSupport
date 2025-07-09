@@ -1,5 +1,8 @@
 bin/
 obj/
+dist/
+node_modules/
+.vscode/
 *.user
 *.log
 appsettings.Development.json
